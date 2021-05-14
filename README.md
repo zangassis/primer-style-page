@@ -1,2 +1,2 @@
-# primer-style-page
-A Landing page built with Primer Style
+# Primer Style Page
+A Static Landing page built with Primer Style
