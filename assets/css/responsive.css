@@ -6,12 +6,12 @@ html {
 
 @media (max-width: 630px) {
 
-    .hero .container {
+    .main .container {
         flex-direction: column;
         text-align: center;
     }
 
-    .hero .container img {
+    .main .container img {
         order: -1;
     }
 
