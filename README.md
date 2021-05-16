@@ -1,6 +1,6 @@
 # Primer Design System Page
-=======
-# A static and responsive page maid with Primer Design Sytem
+- - -
+## A static and responsive page maid with Primer Design Sytem
 
 ## Overview
 
