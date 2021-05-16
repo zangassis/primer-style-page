@@ -1,5 +1,4 @@
-# Primer Style Page
-A Static Landing page built with Primer Style
+# Primer Design System Page
 =======
 # A static and responsive page maid with Primer Design Sytem
 
